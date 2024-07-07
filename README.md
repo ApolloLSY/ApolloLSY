@@ -4,7 +4,7 @@
 - 🐰 I’m currently an undergraduate at SJTU, studying for a 5-year medical degree from 2020/09 to expected 2025/06.
 - 🎓 I’m Looking for a Ph.D. program in Fall 2025.
 - 💭 This is my [wesite](https://apollolsy.github.io/Attic/about/).
-
+- 👀 Apollo isn't my English name. ApolloLSY is a pun in Chinese, sounding like '阿波罗尼斯圆' (Apollonius circle), which my high school classmates often joked about.
 
 #
 
