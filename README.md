@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 #
 
 <p align="center">
-  <img src = "https://streak-stats.demolab.com?user=ApolloLSY&theme=tokyonight-duo&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApolloLSY&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloLSY&layout=compact&line_height=20&theme=dracula&border_radius=20">
+  <img src = "https://streak-stats.demolab.com?user=ApolloLSY&theme=tokyonight-duo&border_radius=50&card_width=800&hide_border=true&dates=F82B27&ring=17A0EC&fire=F82B27&currStreakNum=17A0EC&currStreakLabel=17A0EC&sideNums=17A0EC&sideLabels=17A0EC&excludeDaysLabel=17A0EC">
+  <img src="https://github-readme-stats.vercel.app/api?username=ApolloLSY&count_private=true&show_icons=true&theme=dracula&line_height=30&include_all_commits=true&hide=contribs,prs&border_radius=20&title_color=17A0EC&icon_color=17A0EC">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloLSY&theme=dracula&layout=compact&line_height=30&border_radius=20&title_color=17A0EC&icon_color=17A0EC">
 </p>
 
