@@ -1,7 +1,7 @@
 ## Hi there 👋🏻
 
 
-- 🐰 I’m currently an undergraduate at SJTU, studying for a 5-year medical degree from 2020/09 to expected 2025/06.
+- 🐰 I’m currently an undergraduate at SJTU, studying for a 5-year dual degree of Medicine & Management from 2020/09 to expected 2025/06.
 - 🎓 I’m Looking for a Ph.D. program in 25 Fall.
 - 💭 This is my [Wesite](https://apollolsy.github.io/Attic/about/) and [CV](https://drive.google.com/file/d/12ItCSLegxhgdNpkH-K6VlXpqaINbt2uN/preview).
 - 👀 Apollo isn't my English name. ApolloLSY is a pun in Chinese, sounding like '阿波罗尼斯圆'(Apollonius Circle), which my high school classmates often joked about.
